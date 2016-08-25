@@ -3,5 +3,5 @@ development:
     default:
       database: mongoid
       hosts:
-        - localhost:27017
+        - 0.0.0.0:27017
 
